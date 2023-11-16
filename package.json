@@ -8,7 +8,9 @@
     "test": "npm run lint && npm run prettier:check"
   },
   "dependencies": {
-    "next": "^14.0.0"
+    "next": "^14.0.0",
+    "next-auth": "^5.0.0-beta.3",
+    "use-debounce": "^10.0.0"
   },
   "devDependencies": {
     "@vercel/style-guide": "^5.0.1",
